@@ -1,4 +1,4 @@
-module phuip-fpizdam
+module github.com/jeffguorg/phuip-fpizdam
 
 go 1.12
 
